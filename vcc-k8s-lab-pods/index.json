@@ -1,0 +1,29 @@
+{
+  "title": "kubernetes, laboratorio pods",
+  "description": "Laboratorio para la creacion de un pod",
+  "difficulty": "Beginner",
+  "time": "10",
+  "details": {
+    "assets": {
+      "host01": [
+        {"file": "pod.yaml", "target": "/root"}
+      ]
+    },
+    "steps": [
+      {
+        "title": "Ver el manifest",
+        "code": "clear.sh",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
