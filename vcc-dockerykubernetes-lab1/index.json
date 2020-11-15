@@ -37,25 +37,17 @@
         "text": "step4.md"
       },
       {
+        "title": "Inspeccionamos la imagen",
+        "code": "clear.sh",
+        "text": "step5.md"
+      },
+      {
         "title": "Crear un contenedor",
         "code": "clear.sh",
-        "text": "step6.md"
-      },
-      {
-        "title": "Inspeccionar los metadatos de una imagen",
-        "code": "clear.sh",
-        "text": "step6.md"
-      },
-      {
-        "title": "Inspeccionar los metadatos de una imagen",
-        "code": "clear.sh",
-        "text": "step7.md"
-      },
-      {
-        "title": "Inspeccionar los metadatos de una imagen",
-        "code": "clear.sh",
-        "text": "step8.md"
+        "text": "step5.md"
       }
+      
+
     ],
     "finish": {
       "text": "finish.md"
