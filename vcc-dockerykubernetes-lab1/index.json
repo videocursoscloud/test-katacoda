@@ -1,62 +1,20 @@
 {
-  "title": "Laboratorio uno - creacion de imagenes y ciclo de vida de un contenedor",
-  "description": "Laboratorio para la creacion de imagenes con docker",
+  "title": "Kubernetes 101 - Laboratorio 1 - Pods",
+  "description": "Laboratorio de kubernetes 1 - Pods",
   "difficulty": "Beginner",
   "time": "10",
   "details": {
     "assets": {
       "host01": [
-        {"file": "Dockerfile", "target": "/root"}
+        {"file": "pod.yaml', "target": "/root"}
       ]
     },
     "steps": [
       {
-        "title": "Mantenimiento",
-        "text": "intro.md",
-        "code": "foreground.sh",
-        "courseData": "background.sh"
-      },
-      {
-        "title": "Ver el Dockerfile",
+        "title": "Ver el Manifest",
         "code": "clear.sh",
         "text": "step1.md"
-      },
-      {
-        "title": "Creamos la imagen",
-        "code": "clear.sh",
-        "text": "step2.md"
-      },
-      {
-        "title": "Eliminamos la imagen",
-        "code": "clear.sh",
-        "text": "step3.md"
-      },
-      {
-        "title": "Creamos la imagen con una etiqueta",
-        "code": "clear.sh",
-        "text": "step4.md"
-      },
-      {
-        "title": "Inspeccionamos la imagen",
-        "code": "clear.sh",
-        "text": "step5.md"
-      },
-      {
-        "title": "Crear un contenedor",
-        "code": "clear.sh",
-        "text": "step6.md"
-      },
-      {
-        "title": "Arrancar el contenedor",
-        "code": "clear.sh",
-        "text": "step7.md"
-      },
-      {
-        "title": "Eliminar un contenedor en marcha",
-        "code": "clear.sh",
-        "text": "step8.md"
-      }      
-      
+      }
 
     ],
     "finish": {

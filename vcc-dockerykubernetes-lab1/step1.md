@@ -1,5 +1,5 @@
-Vamos a ver el contenido del dockerfile.
+Vamos a ver el contenido del manifest.
 
 
-`cat Dockerfile`{{execute}}
+`cat pod.yaml`{{execute}}
 
