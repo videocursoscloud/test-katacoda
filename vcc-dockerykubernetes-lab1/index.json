@@ -6,7 +6,7 @@
   "details": {
     "assets": {
       "host01": [
-        {"file": "files/Dockerfile", "target": "/root"}
+        {"file": "Dockerfile", "target": "/root"}
       ]
     },
     "steps": [
