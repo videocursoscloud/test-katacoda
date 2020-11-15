@@ -11,10 +11,14 @@
     },
     "steps": [
       {
-        "title": "Ver el Dockerfile",
-        "text": "step1.md",
+        "title": "Mantenimiento",
+        "text": "intro.md",
         "code": "foreground.sh",
         "courseData": "background.sh"
+      },
+      {
+        "title": "Ver el Dockerfile",
+        "text": "step1.md",
       },
       {
         "title": "Creamos la imagen",
@@ -133,9 +137,6 @@
         "text": "step30.md"
       }
     ],
-    "intro": {
-      "text": "intro.md"
-    },
     "finish": {
       "text": "finish.md"
     }
