@@ -1,4 +1,4 @@
-Vamos a listar las imagenes. no os preocupeis si veis imagenes que no sabeis de donde estan, es por que katacoda las coloca ahi por defecto. 
+Vamos a listar las imagenes.
 
 `docker images`{{execute}}
 

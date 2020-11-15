@@ -1,6 +1,8 @@
 Vamos a Eliminr la imagen que acabamos de crear.
 
-Para ello primero listamos las imagenes para obtener el id de la que hemos creado
+Para ello primero listamos las imagenes para obtener el id de la que hemos creado.
+
+Vereis dos imagenes, una que es la imagen correspondiente a ubuntu:18.04 y otra sin respositorio ni tag definido. esa es la nuestra
 
 `docker images`{{execute}}
 

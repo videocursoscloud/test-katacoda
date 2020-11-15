@@ -8,7 +8,7 @@ Vamos a construir nuestra imagen dandole una etiqueta.
 
 Y ahora etiquetamos nuestra imagen con la etiqueta latest
 
-`docker test helloworld:1.0 helloworld:latest`{{execute}}
+`docker tag helloworld:1.0 helloworld:latest`{{execute}}
 
 Volvemos a listar las imagenes
 
