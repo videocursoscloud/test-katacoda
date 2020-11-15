@@ -18,22 +18,27 @@
       },
       {
         "title": "Ver el Dockerfile",
+        "code": "clear.sh",
         "text": "step1.md"
       },
       {
         "title": "Creamos la imagen",
+        "code": "clear.sh",
         "text": "step2.md"
       },
       {
         "title": "Eliminamos la imagen",
+        "code": "clear.sh",
         "text": "step3.md"
       },
       {
         "title": "Creamos la imagen con una etiqueta",
+        "code": "clear.sh",
         "text": "step4.md"
       },
       {
         "title": "Inspeccionar los metadatos de una imagen",
+        "code": "clear.sh",
         "text": "step5.md"
       },
       {
