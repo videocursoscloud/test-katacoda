@@ -24,6 +24,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "minikube"
+    "imageid": "kubernetes-master-ubuntu1604-1-16"
   }
 }
