@@ -19,6 +19,11 @@
         "title": "aplicar el manifest",
         "code": "clear.sh",
         "text": "step2.md"
+      },
+      {
+        "title": "manipulamos el pod",
+        "code": "clear.sh",
+        "text": "step3.md"
       }
     ],
     "finish": {
