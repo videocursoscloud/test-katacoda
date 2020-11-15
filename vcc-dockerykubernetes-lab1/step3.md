@@ -4,7 +4,9 @@ Para ello primero listamos las imagenes para obtener el id de la que hemos cread
 
 `docker images`{{execute}}
 
-Y ahora pegamos ese id en este comando, sustituyendo ID_DE_LA_IMAGEN por el id.
+Katacoda en algunos browsers no nos dejara copiar y pegar el ID de la imagen, pero no os preocupeis.
+
+si el id es por ejemplo 12345678, usad como id solo los primeros digitos. eso bastara, por tanto:
 
 `docker image rm ID_DE_LA_IMAGEN `{{execute}}
 

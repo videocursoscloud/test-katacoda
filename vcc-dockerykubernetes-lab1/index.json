@@ -12,7 +12,8 @@
     "steps": [
       {
         "title": "Ver el Dockerfile",
-        "text": "step1.md"
+        "text": "step1.md",
+        "code": "foreground.sh"
       },
       {
         "title": "Creamos la imagen",
