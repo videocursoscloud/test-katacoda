@@ -14,7 +14,7 @@
         "title": "Ver el Dockerfile",
         "text": "step1.md",
         "code": "foreground.sh",
-        "courseData": "background.sh",
+        "courseData": "background.sh"
       },
       {
         "title": "Creamos la imagen",
