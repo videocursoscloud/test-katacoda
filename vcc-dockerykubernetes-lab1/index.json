@@ -45,7 +45,17 @@
         "title": "Crear un contenedor",
         "code": "clear.sh",
         "text": "step6.md"
-      }
+      },
+      {
+        "title": "Arrancar el contenedor",
+        "code": "clear.sh",
+        "text": "step7.md"
+      },
+      {
+        "title": "Eliminar un contenedor en marcha",
+        "code": "clear.sh",
+        "text": "step8.md"
+      }      
       
 
     ],

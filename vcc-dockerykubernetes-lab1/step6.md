@@ -9,3 +9,7 @@ Listamos los contenedores corriendo
 Vemos que no aparece, puesto que el contenedor esta creado pero no corriendo. Los listamos con la opcion -a ahora
 
 `docker ps -a`{{execute}}
+
+Ahora vamos a eliminar el contenedor. necesitamos fijarnos en el id del contenedor, que esta en la primera columna de la salida del comando anterior.
+
+`docker rm ID_DEL_CONTENEDOR`{{execute}}
