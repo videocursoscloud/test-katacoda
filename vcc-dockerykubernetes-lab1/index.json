@@ -4,9 +4,14 @@
   "difficulty": "Beginner",
   "time": "10",
   "details": {
+    "assets": {
+      "host01": [
+        {"file": "files/Dockerfile", "target": "/root"}
+      ]
+    },
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Ver el Dockerfile",
         "text": "step1.md"
       },
       {
