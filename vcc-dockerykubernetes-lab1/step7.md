@@ -18,7 +18,8 @@ Ahora vamos a parar el contenedor
 `docker stop webserver`{{execute}}
 
 y listamos con -a para ver que esta parado y podra ser arrancado en cualquier momento de nuevo con start
-`docker ps `{{execute}}
+`docker ps -a`{{execute}}
 
-
+Arrancamos de nuevo el contenedor
+`docker start webserver`{{execute}}
 
